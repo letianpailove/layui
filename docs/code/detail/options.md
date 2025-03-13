@@ -188,7 +188,7 @@ toolsEvent: function(obj){
 <td>copy <sup>2.8.2+</sup></td>
 <td>
   
-用于开启代码复制功能图标。若开启 `priview`，则自动放置在 `tools` 属性中，复制图标将显示在容器右上角工具栏；若未开启 `priview`，则显示在 code 区域右上角。
+用于开启代码复制功能图标。若开启 `preview`，则自动放置在 `tools` 属性中，复制图标将显示在容器右上角工具栏；若未开启 `preview`，则显示在 code 区域右上角。
 
 </td>
 <td>boolean</td>
